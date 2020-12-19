@@ -17,5 +17,4 @@ int main (void)
 	printf("The sum of %i and %i is %i\n", value1, value2, sum);
 
 	return 0;
-
 }
