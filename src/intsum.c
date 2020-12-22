@@ -1,5 +1,9 @@
+/* This is one of the first programs
+   I have written in C */
+
 #include <stdio.h>
 
+// Defining the type of function
 int main (void)
 {
 	int sum;

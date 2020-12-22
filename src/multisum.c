@@ -1,5 +1,5 @@
 /* This program adds two integer values
-   and displays the rssults */
+   and displays the results */
 
 #include <stdio.h>
 
