@@ -8,8 +8,9 @@ int main (void)
 
 	triangularNumber = 0;
 
-	for ( n = 1; n <= 200; n = n + 1 )
-		triangularNumber = triangularNumber + n;
+	// loop structure is (init_expression; loop_condition; loop_expression)
+	for ( n = 1; n <= 200; n = n + 1 ) 			// n is index variable in loop
+		triangularNumber = triangularNumber + n;// program_statement
 
 	printf("The 200th triangular number is %i\n", triangularNumber);
 
