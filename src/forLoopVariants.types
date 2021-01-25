@@ -1,0 +1,10 @@
+// Multiple Expressions
+for ( i = 0, j = 0, i < 10, ++i )
+	...
+
+// Another example for multiple expressions
+for ( i = 0, j = 100; i < 10, j = j - 10 )
+	...
+
+// Omitting a field
+for ( ; j != 100; ++j )
