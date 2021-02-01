@@ -4,7 +4,7 @@ int main(void)
 {
 	// Declaration and assignment of different types of variables
 	int 	integerVar 	= 	100;
-	float 	floatingVar = 	331.79;
+	float 	floatingVar 	= 	331.79;
 	double  doubleVar 	= 	8.44e+11;
 	char 	charVar 	= 	'W';
 
